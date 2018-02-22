@@ -1,0 +1,9 @@
+# Do not track components and modules
+node_modules
+bower_components
+
+
+# Do not track mac files
+.DS_Store
+.AppleDouble
+.LSOverride
